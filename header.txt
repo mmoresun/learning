@@ -1,1 +1,3 @@
 Some text in header
+
+Changes from master branch
